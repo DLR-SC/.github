@@ -1,6 +1,6 @@
-## Welcome to the Institute of Software Technology of the German Aerospace Center (DLR) 👋
+## Welcome to the Institute for Software Technology of the German Aerospace Center (DLR) 👋
 
-In this space you find some of the software projects of the Institute of Software Technology of the German Aerospace Center (DLR). You can also find software projects of us via the [Helmholtz Software Directory](https://helmholtz.software/organisations/dlr?tab=software&order=is_featured). 
+In this space you find some of the software projects of the Institute for Software Technology of the German Aerospace Center (DLR). You can also find software projects of us via the [Helmholtz Software Directory](https://helmholtz.software/organisations/dlr?tab=software&order=is_featured). 
 
 If you want to learn more about us have a look at [dlr.de/sc](https://www.dlr.de/sc/en). If you are interested in joining us (as researcher, PhD, student, intern, ...), have a look at [dlr.de/jobs](https://www.dlr.de/dlr/jobs/desktopdefault.aspx/tabid-10572/#Softwaretechnologie/S:304).
 
