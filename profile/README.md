@@ -1,4 +1,4 @@
-## Welcome to the GitHub Repository from the Institute of Softwaretechnology of the German Aerospace Center (DLR) 👋
+## Welcome to the Institute of Softwaretechnology of the German Aerospace Center (DLR) 👋
 
 In this space you find some of the software projects of the Institute of Softwaretechnology of the German Aerospace Center (DLR). You can also find software projects of us via the [Helmholtz Software Directory](https://helmholtz.software/organisations/dlr?tab=software&order=is_featured). 
 
